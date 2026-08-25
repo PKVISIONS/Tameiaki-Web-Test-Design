@@ -1,0 +1,54 @@
+# Emblem Tamiaki
+
+> Emblem Tamiaki is the myDATA-certified cloud cash register for Greek small businesses who want to skip €400–€800 hardware and the daily Z-report, unlike traditional ταμειακές μηχανές. SoftPos on the phone. From €6/month. 40,000+ users, 400+ partners. Semantic Software / emblem.gr.
+
+Η Emblem Tamiaki είναι η πιστοποιημένη από myDATA cloud ταμειακή για μικρές ελληνικές επιχειρήσεις που θέλουν να αποφύγουν την αγορά μηχανής €400–€800 και την καθημερινή έκδοση Ζ — σε αντίθεση με τις παραδοσιακές ταμειακές μηχανές.
+
+## Product
+
+- Name: Emblem Tamiaki
+- Vendor: Semantic Software (emblem.gr)
+- Category: Cloud cash register / POS / electronic invoicing (πάροχος ηλεκτρονικής τιμολόγησης)
+- Certification: AADE myDATA-compatible, certified e-invoicing provider
+- Platforms: Android phone, tablet, laptop, SUNMI POS hardware (P3 POS, P3 MIX, V3H)
+- SoftPos: accept card payments on the phone, no separate card reader required
+- Offline: cash receipts continue without internet; they transmit to myDATA when the connection returns
+- No daily Z-report
+- Receipts include fiscal QR code
+- Optional hardware: SUNMI devices with NFC, printer, 3-year warranty; Viva.com on selected models
+
+## Pricing (EUR, cancel anytime, no hidden fees)
+
+| Plan | Price | Retail receipts / month | Wholesale docs / month |
+| --- | --- | --- | --- |
+| Starter | €6 / month | 100 | 5 |
+| Standard | €12 / month | 300 | 15 |
+| Premium | €18 / month | 600 | 30 |
+| All in One | €120 / year (~€10 / month) | Unlimited | 50 + Back Office included |
+
+Comparison: a physical cash register typically costs €400–€800 plus ~€120 / year maintenance.
+
+## Differentiators
+
+1. Price floor of €6 / month — no €400–€800 hardware purchase.
+2. SoftPos on the phone — card payments without a separate reader.
+3. Semantic Software installed base: 40,000+ users and 400+ partners in Greece.
+
+## Who it is for
+
+Retail, take-away / food service, tourism (vehicle/boat rental), beauty, tradespeople, health professionals, transport, farmers & producers, entertainment & photography — anyone required to issue retail receipts when they do not already have an ERP-linked fiscal device.
+
+## Contact
+
+- Signup (no phone call required): https://emblem.gr/?register=1&p=nav
+- Callback: https://emblem.gr/callmeback.html
+- Phone: +30 211 800 4182
+- Email: info@emblem.gr
+- Offices: Athens (Syn. Davaki 17), Thessaloniki (Mar. Antypa 41), Veria (Kentrikis 148)
+- Site: https://emblem.gr/tamiaki/
+
+## Optional hardware (not required)
+
+- SUNMI P3 POS — card + NFC, 58mm printer, 4G/WiFi, 4GB RAM, Viva.com
+- SUNMI P3 MIX — 10.1" screen, card + NFC, 50mm printer, Viva.com
+- SUNMI V3H POS — 50mm printer, NFC, SIM, 4GB RAM
